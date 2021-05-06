@@ -1,3 +1,6 @@
+THIS REPOSITORY CONTAINS MY WEEK 4 ASSIGNMENT
+
+
 This repo contains assignment for week 4 of Getting and Cleaning Data.
 The run_analysis.R code can be used to create the tiny dataset-
  1)This code combines training dataset and test dataset
